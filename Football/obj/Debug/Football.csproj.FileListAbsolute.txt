@@ -1,0 +1,8 @@
+C:\school stuff\alo da\Football\Football\bin\Debug\Football.exe.config
+C:\school stuff\alo da\Football\Football\bin\Debug\Football.exe
+C:\school stuff\alo da\Football\Football\bin\Debug\Football.pdb
+C:\school stuff\alo da\Football\Football\obj\Debug\Football.csproj.AssemblyReference.cache
+C:\school stuff\alo da\Football\Football\obj\Debug\Football.csproj.SuggestedBindingRedirects.cache
+C:\school stuff\alo da\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\school stuff\alo da\Football\Football\obj\Debug\Football.exe
+C:\school stuff\alo da\Football\Football\obj\Debug\Football.pdb
